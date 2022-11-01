@@ -1,2 +1,2 @@
 # Mulheres.Tech.2
- Versão fullstack do site mulhers.tech
+ Versão fullstack do aplicativo Mulheres.Tech.
