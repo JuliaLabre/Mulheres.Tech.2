@@ -40,7 +40,7 @@ $sql = <<<SQL
 
 UPDATE articles
 SET views = '{$views}' 
-WHERE aid = '{$art['aid']}'; 
+WHERE aid = '{$art['aid']}';
 
 SQL;
 
